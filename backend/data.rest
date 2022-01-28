@@ -1,0 +1,29 @@
+//data you will pull from the backend into the front end
+variable name for all data
+data
+
+//information in the data constant to be pulled into the frontend
+# {
+#     professionalName,
+#     nameLink{
+#         firstName,
+#         url,
+#     },
+#     base64Image,
+#     firstName,
+#     primaryDescription,
+#     workdescription1,
+#     workDescription2,
+#     linkedInLink: {
+#     link,
+#     text
+#   },
+#   githubLink{
+#     link,
+#     text
+#   },
+#   contactText:
+#  };
+
+
+# }
